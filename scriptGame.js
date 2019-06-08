@@ -49,6 +49,11 @@ There are 25 different numeric codes to describe
 */
 
 // Psudocode
+// while or if inning < 9.5 and runsVisitor != runsHome
+// while outs < 3
 // Listen for Play click
 // Get Random Number
-//
+// Assign play to random number
+// Move runners if needed
+// Move batter if needed
+// Add runs to total if needed
